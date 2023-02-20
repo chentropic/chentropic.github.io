@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Alex Chen</title>
+    <link>http://chentropic.github.io/about/</link>
+    <description>Recent content in About on Alex Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://chentropic.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://chentropic.github.io/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chentropic.github.io/about/about/</guid>
+      <description>Hey there! I&amp;rsquo;m an undergraduate student interested in blockchain, philosophy, and international development.
+School: University of Pennsylvania (Jerome Fisher M&amp;amp;T) Majors: Business, Networked &amp;amp; Social Systems Engineering </description>
+    </item>
+    
+  </channel>
+</rss>
