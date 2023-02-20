@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alex Chen</title>
-    <link>http://chentropic.github.io/posts/</link>
+    <link>https://chentropic.github.io/posts/</link>
     <description>Recent content in Posts on Alex Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://chentropic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chentropic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://chentropic.github.io/posts/aboutme/</link>
+      <link>https://chentropic.github.io/posts/aboutme/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chentropic.github.io/posts/aboutme/</guid>
+      <guid>https://chentropic.github.io/posts/aboutme/</guid>
       <description>Hey there! I&amp;rsquo;m an undergraduate student interested in blockchain, philosophy, and international development. I&amp;rsquo;m attending the University of Pennsylvania&amp;rsquo;s Jerome Fisher Program in Management in Technology. You can click the &amp;ldquo;About&amp;rdquo; tab to learn more about me.</description>
     </item>
     
