@@ -10,7 +10,7 @@ publishDir = 'docs'
     brand = "Alex Chen"                    # name of your site - appears in the sidebar
     brand_image = "/images/mylogo.jpeg"  # path to the image shown in the sidebar
     description = "M&T undergraduate @ UPenn"
-    dark_mode = true                   # optional - defaults to false
+    dark_mode = false                   # optional - defaults to false
 
     # MENU PLACEHOLDER
     # Menu dict keys:
