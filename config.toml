@@ -1,4 +1,4 @@
-baseURL = 'http://chentropic.github.io/'
+baseURL = 'https://chentropic.github.io/'
 languageCode = 'en-us'
 title = 'Alex Chen'
 theme = 'poison'
