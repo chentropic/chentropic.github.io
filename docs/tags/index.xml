@@ -5,6 +5,16 @@
     <link>https://chentropic.github.io/tags/</link>
     <description>Recent content in Tags on Alex Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chentropic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chentropic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>me</title>
+      <link>https://chentropic.github.io/tags/me/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chentropic.github.io/tags/me/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
